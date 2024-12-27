@@ -1,6 +1,13 @@
 
 # Ewe Audio Command Classification Challenge - Solution by Abdourahamane Ide Salifou - Engineering student in Artificial Intelligence at CMU-Africa
 
+## Description
+
+In many parts of the world, navigating public spaces remains a significant challenge for visually impaired individuals. The ability to accurately interpret and respond to spoken directions supports their independence and safety. This challenge aims to develop language models capable of recognising basic directional words in Ewe, a language spoken in parts of West Africa. This challenge not only addresses a pressing social issue but also highlights the importance of linguistic diversity in AI development.
+
+The objective of this hackathon is to create machine learning models that can accurately classify audio recordings of basic directional commands in Ewè: "up," "down," "stop," "go," "left," "right," "yes," and "no."
+
+Thi solution will be used in a navigation voice assistant for visually impaired individuals who speak Ewè. By focusing on this specific use case, the challenge underscores the potential of AI for social good, particularly in underrepresented African languages.
 ## Overview
 This solution addresses the challenge of classifying basic directional commands in the Ewe language using audio data. The goal is to accurately classify commands like "up," "down," "go," and others . This solution emphasizes efficiency in feature extraction, robust model architecture, and optimization for deployment on edge device. This solution is tailored to the provided use case: a navigation voice assistant for visually impaired individuals who speak Ewe.
 
